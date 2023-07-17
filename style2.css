@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px 100px 0px 0px ;
+    background-color: rgb(143, 197, 179);
+}
+
+table{
+    background-color: azure;
+    color: black;
+    text-align: center;
+    font-size: large;
+}
+
+th{
+    background-color: rgb(211, 249, 173);
+    color: black;
+
+}

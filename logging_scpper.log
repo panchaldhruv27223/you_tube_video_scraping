@@ -1,0 +1,27 @@
+2023-07-18 01:02:57,652 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.82.13:5000
+2023-07-18 01:02:57,652 werkzeug INFO [33mPress CTRL+C to quit[0m
+2023-07-18 01:02:57,654 werkzeug INFO  * Restarting with stat
+2023-07-18 01:02:59,094 werkzeug WARNING  * Debugger is active!
+2023-07-18 01:02:59,096 werkzeug INFO  * Debugger PIN: 433-802-569
+2023-07-18 01:03:02,707 werkzeug INFO 127.0.0.1 - - [18/Jul/2023 01:03:02] "GET / HTTP/1.1" 200 -
+2023-07-18 01:03:02,930 werkzeug INFO 127.0.0.1 - - [18/Jul/2023 01:03:02] "GET /static/css/style.css HTTP/1.1" 200 -
+2023-07-18 01:03:09,065 root INFO we got query
+2023-07-18 01:03:14,506 root INFO we are start on working.
+2023-07-18 01:03:17,519 root INFO we got videos link
+2023-07-18 01:03:17,536 root INFO now we are at step two
+2023-07-18 01:03:18,560 root ERROR we are not able to get title , view ...
+2023-07-18 01:03:18,560 root INFO we are ready to go and find thumbnails
+2023-07-18 01:03:20,392 root ERROR we can not store data
+2023-07-18 01:03:20,400 werkzeug INFO 127.0.0.1 - - [18/Jul/2023 01:03:20] "POST /p_data HTTP/1.1" 200 -
+2023-07-18 01:03:20,456 werkzeug INFO 127.0.0.1 - - [18/Jul/2023 01:03:20] "[33mGET /url_for('static'%20,%20filename=%20'css/style2.css') HTTP/1.1[0m" 404 -
+2023-07-18 01:03:33,272 root INFO we got query
+2023-07-18 01:03:38,369 root INFO we are start on working.
+2023-07-18 01:03:42,886 root INFO we got videos link
+2023-07-18 01:03:42,916 root INFO now we are at step two
+2023-07-18 01:03:44,900 root INFO we are ready to go and find thumbnails
+2023-07-18 01:03:47,439 root ERROR we can not store data
+2023-07-18 01:03:47,441 werkzeug INFO 127.0.0.1 - - [18/Jul/2023 01:03:47] "POST /p_data HTTP/1.1" 200 -
+2023-07-18 01:03:47,459 werkzeug INFO 127.0.0.1 - - [18/Jul/2023 01:03:47] "[33mGET /url_for('static'%20,%20filename=%20'css/style2.css') HTTP/1.1[0m" 404 -

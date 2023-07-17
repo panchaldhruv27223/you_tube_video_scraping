@@ -1,0 +1,39 @@
+*{
+    padding: 0%;
+    margin: 0px;
+    background-color: rgb(169, 212, 239);
+    color: black;
+    margin-top: 5%;
+}
+
+h1{
+    text-align: center;
+    /* justify-content: center; */
+    
+}
+
+form{
+    display: inline;
+    text-align: center;
+    justify-content: center;
+    /* margin-left: ; */
+    /* margin-right: 30%; */
+}
+
+button{
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+    width: fit-content;
+    border-width: 3px;
+    padding: 5px;
+}
+
+input{
+    text-align: center;
+    border-radius: 10px;
+    border-top-color: black;
+    border-width: 5px;
+    width: 500px;
+    height: 20px;
+}
